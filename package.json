@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@material/mwc-icon": "0.8.0",
+    "@material/mwc-icon-button": "0.8.0",
+    "@material/mwc-icon-button-toggle": "^0.8.0",
+    "@material/mwc-textfield": "0.8.0",
+    "@material/mwc-top-app-bar": "0.8.0",
+    "@webcomponents/webcomponentsjs": "2.3.0",
+    "lit-element": "^2.2.1",
+    "react": "16.9.0",
+    "react-dom": "16.9.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
